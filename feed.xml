@@ -4,7 +4,17 @@
   <description></description>
   <link href="https://ruby-korea.github.io" />
   <link href="https://ruby-korea.github.io/feed.xml" rel="self" />
-  <updated>Thu, 15 Jan 2015 20:26:05 +0900</updated>
+  <updated>Sun, 18 Jan 2015 15:09:20 +0900</updated>
+  
+  <entry>
+    <title>[번역] 사용해봐야 할 5가지 루비 메서드</title>
+    <link href="https://dayone.me/1eP1zCQ" />
+    <id>https://dayone.me/1eP1zCQ</id>
+    <author>
+      <name>marocchino</name>
+    </author>
+    <updated>Sat, 17 Jan 2015 00:00:00 +0900</updated>
+  </entry>
   
   <entry>
     <title>[번역] 루비에 컨트리뷰트 했다.</title>
@@ -94,16 +104,6 @@
       <name>marocchino</name>
     </author>
     <updated>Tue, 14 Oct 2014 00:00:00 +0900</updated>
-  </entry>
-  
-  <entry>
-    <title>Ruby 개발환경 설정하기 (윈도우7에서)</title>
-    <link href="http://bcho.tistory.com/946" />
-    <id>http://bcho.tistory.com/946</id>
-    <author>
-      <name>TerryCho</name>
-    </author>
-    <updated>Mon, 18 Aug 2014 00:00:00 +0900</updated>
   </entry>
   
 </feed>
