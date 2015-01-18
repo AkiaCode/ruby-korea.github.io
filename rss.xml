@@ -3,9 +3,16 @@
   <channel>
     <title><![CDATA[루비 프로그래밍 언어 한글 문서]]></title>
     <link>https://ruby-korea.github.io</link>
-    <lastBuildDate>Sun, 18 Jan 2015 23:56:00 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 19 Jan 2015 01:10:22 +0900</lastBuildDate>
     <language>ko</language>
     <description><![CDATA[]]></description>
+    
+    <item>
+      <title><![CDATA[[번역] 루비 2.2에서의 슈퍼 메서드 디버그]]></title>
+      <guid isPermaLink="false">https://dayone.me/1faIzEW</guid>
+      <link>https://dayone.me/1faIzEW</link>
+      <pubDate>Mon, 19 Jan 2015 00:00:00 GMT</pubDate>
+    </item>
     
     <item>
       <title><![CDATA[[번역] 사용해봐야 할 5가지 루비 메서드]]></title>
@@ -68,13 +75,6 @@
       <guid isPermaLink="false">https://dayone.me/1767zVi</guid>
       <link>https://dayone.me/1767zVi</link>
       <pubDate>Thu, 18 Dec 2014 00:00:00 GMT</pubDate>
-    </item>
-    
-    <item>
-      <title><![CDATA[whenever 사용하기]]></title>
-      <guid isPermaLink="false">https://gist.github.com/marocchino/339af95e07d17ed2a87e</guid>
-      <link>https://gist.github.com/marocchino/339af95e07d17ed2a87e</link>
-      <pubDate>Tue, 14 Oct 2014 00:00:00 GMT</pubDate>
     </item>
     
   </channel>
