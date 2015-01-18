@@ -1,21 +1,109 @@
----
----
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>{{ site.name | xml_escape }}</title>
-  <description>{% if site.description %}{{ site.description | xml_escape }}{% endif %}</description>
-  <link href="{{ site.url }}" />
-  <link href="{{ site.url }}/feed.xml" rel="self" />
-  <updated>{{ site.time | date: "%a, %d %b %Y %H:%M:%S %z" }}</updated>
-  {% for article in page.articles limit:10 %}
+  <title>루비 프로그래밍 언어 한글 문서</title>
+  <description></description>
+  <link href="https://ruby-korea.github.io" />
+  <link href="https://ruby-korea.github.io/feed.xml" rel="self" />
+  <updated>Thu, 15 Jan 2015 20:26:05 +0900</updated>
+  
   <entry>
-    <title>{{ article.title | xml_escape }}</title>
-    <link href="{{ article.url }}" />
-    <id>{{ article.url }}</id>
+    <title>[번역] 루비에 컨트리뷰트 했다.</title>
+    <link href="https://dayone.me/1dJRzSb" />
+    <id>https://dayone.me/1dJRzSb</id>
     <author>
-      <name>{{ article.author | xml_escape }}</name>
+      <name>marocchino</name>
     </author>
-    <updated>{{ article.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</updated>
+    <updated>Mon, 12 Jan 2015 00:00:00 +0900</updated>
   </entry>
-  {% endfor %}
+  
+  <entry>
+    <title>Slack 팀 자동 가입 페이지 Heroku에 배포</title>
+    <link href="http://seapy.com/2087" />
+    <id>http://seapy.com/2087</id>
+    <author>
+      <name>seapy</name>
+    </author>
+    <updated>Mon, 12 Jan 2015 00:00:00 +0900</updated>
+  </entry>
+  
+  <entry>
+    <title>[번역] 센디 메츠가 해주는 간단하지만 강력한 3가지 조언</title>
+    <link href="https://dayone.me/1dalzfv" />
+    <id>https://dayone.me/1dalzfv</id>
+    <author>
+      <name>marocchino</name>
+    </author>
+    <updated>Sat, 10 Jan 2015 00:00:00 +0900</updated>
+  </entry>
+  
+  <entry>
+    <title>[번역] ActiveRecord 4.2의 형변환</title>
+    <link href="https://dayone.me/1d9az2u" />
+    <id>https://dayone.me/1d9az2u</id>
+    <author>
+      <name>marocchino</name>
+    </author>
+    <updated>Sat, 10 Jan 2015 00:00:00 +0900</updated>
+  </entry>
+  
+  <entry>
+    <title>[번역] Ruby 2.2.0 Time#parse TZ관련 회귀</title>
+    <link href="https://dayone.me/1cWNz80" />
+    <id>https://dayone.me/1cWNz80</id>
+    <author>
+      <name>marocchino</name>
+    </author>
+    <updated>Fri, 09 Jan 2015 00:00:00 +0900</updated>
+  </entry>
+  
+  <entry>
+    <title>[번역] 빨리 알았으면 좋았을 뻔한 레일즈 기술</title>
+    <link href="https://dayone.me/1ajvzWC" />
+    <id>https://dayone.me/1ajvzWC</id>
+    <author>
+      <name>marocchino</name>
+    </author>
+    <updated>Wed, 31 Dec 2014 00:00:00 +0900</updated>
+  </entry>
+  
+  <entry>
+    <title>[번역] Hashie는 위험해요 - 해쉬와 OpenStruct를 위한 송시</title>
+    <link href="https://dayone.me/18pYzZD" />
+    <id>https://dayone.me/18pYzZD</id>
+    <author>
+      <name>marocchino</name>
+    </author>
+    <updated>Fri, 19 Dec 2014 00:00:00 +0900</updated>
+  </entry>
+  
+  <entry>
+    <title>capistrano, fig 배포하기</title>
+    <link href="https://dayone.me/1767zVi" />
+    <id>https://dayone.me/1767zVi</id>
+    <author>
+      <name>marocchino</name>
+    </author>
+    <updated>Thu, 18 Dec 2014 00:00:00 +0900</updated>
+  </entry>
+  
+  <entry>
+    <title>whenever 사용하기</title>
+    <link href="https://gist.github.com/marocchino/339af95e07d17ed2a87e" />
+    <id>https://gist.github.com/marocchino/339af95e07d17ed2a87e</id>
+    <author>
+      <name>marocchino</name>
+    </author>
+    <updated>Tue, 14 Oct 2014 00:00:00 +0900</updated>
+  </entry>
+  
+  <entry>
+    <title>Ruby 개발환경 설정하기 (윈도우7에서)</title>
+    <link href="http://bcho.tistory.com/946" />
+    <id>http://bcho.tistory.com/946</id>
+    <author>
+      <name>TerryCho</name>
+    </author>
+    <updated>Mon, 18 Aug 2014 00:00:00 +0900</updated>
+  </entry>
+  
 </feed>
