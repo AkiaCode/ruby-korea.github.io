@@ -3,9 +3,16 @@
   <channel>
     <title><![CDATA[루비 프로그래밍 언어 한글 문서]]></title>
     <link>https://ruby-korea.github.io</link>
-    <lastBuildDate>Mon, 19 Jan 2015 08:21:58 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 23 Jan 2015 00:16:36 +0900</lastBuildDate>
     <language>ko</language>
     <description><![CDATA[]]></description>
+    
+    <item>
+      <title><![CDATA[[번역] 루비에 블럭이 있는 이유]]></title>
+      <guid isPermaLink="false">https://dayone.me/1g50zn8</guid>
+      <link>https://dayone.me/1g50zn8</link>
+      <pubDate>Thu, 22 Jan 2015 00:00:00 GMT</pubDate>
+    </item>
     
     <item>
       <title><![CDATA[[번역] 루비 2.2에서의 슈퍼 메서드 디버그]]></title>
@@ -68,13 +75,6 @@
       <guid isPermaLink="false">https://dayone.me/18pYzZD</guid>
       <link>https://dayone.me/18pYzZD</link>
       <pubDate>Fri, 19 Dec 2014 00:00:00 GMT</pubDate>
-    </item>
-    
-    <item>
-      <title><![CDATA[capistrano, fig 배포하기]]></title>
-      <guid isPermaLink="false">https://dayone.me/1767zVi</guid>
-      <link>https://dayone.me/1767zVi</link>
-      <pubDate>Thu, 18 Dec 2014 00:00:00 GMT</pubDate>
     </item>
     
   </channel>
