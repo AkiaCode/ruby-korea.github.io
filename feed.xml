@@ -4,7 +4,17 @@
   <description></description>
   <link href="https://ruby-korea.github.io" />
   <link href="https://ruby-korea.github.io/feed.xml" rel="self" />
-  <updated>Tue, 27 Jan 2015 09:52:25 +0900</updated>
+  <updated>Thu, 29 Jan 2015 07:44:10 +0900</updated>
+  
+  <entry>
+    <title>워드프레스에서 지킬로 본진 이동</title>
+    <link href="http://we.weirdmeetup.com/jekyll-워드프레스에서-지킬로-본진-이동/" />
+    <id>http://we.weirdmeetup.com/jekyll-워드프레스에서-지킬로-본진-이동/</id>
+    <author>
+      <name>ohyecloudy</name>
+    </author>
+    <updated>Tue, 27 Jan 2015 00:00:00 +0900</updated>
+  </entry>
   
   <entry>
     <title>[번역] Minitest, RSpec 경험담</title>
@@ -94,16 +104,6 @@
       <name>marocchino</name>
     </author>
     <updated>Fri, 09 Jan 2015 00:00:00 +0900</updated>
-  </entry>
-  
-  <entry>
-    <title>[번역] 빨리 알았으면 좋았을 뻔한 레일즈 기술</title>
-    <link href="https://dayone.me/1ajvzWC" />
-    <id>https://dayone.me/1ajvzWC</id>
-    <author>
-      <name>marocchino</name>
-    </author>
-    <updated>Wed, 31 Dec 2014 00:00:00 +0900</updated>
   </entry>
   
 </feed>
