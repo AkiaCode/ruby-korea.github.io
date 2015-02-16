@@ -3,9 +3,16 @@
   <channel>
     <title><![CDATA[루비 프로그래밍 언어 한글 문서]]></title>
     <link>https://ruby-korea.github.io</link>
-    <lastBuildDate>Thu, 29 Jan 2015 07:44:10 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 17 Feb 2015 02:13:57 +0900</lastBuildDate>
     <language>ko</language>
     <description><![CDATA[]]></description>
+    
+    <item>
+      <title><![CDATA[[번역] 레일즈를 계속 버전업하려면 필요한 것]]></title>
+      <guid isPermaLink="false">https://dayone.me/1o5Pzcb</guid>
+      <link>https://dayone.me/1o5Pzcb</link>
+      <pubDate>Tue, 17 Feb 2015 00:00:00 GMT</pubDate>
+    </item>
     
     <item>
       <title><![CDATA[워드프레스에서 지킬로 본진 이동]]></title>
@@ -68,13 +75,6 @@
       <guid isPermaLink="false">https://dayone.me/1d9az2u</guid>
       <link>https://dayone.me/1d9az2u</link>
       <pubDate>Sat, 10 Jan 2015 00:00:00 GMT</pubDate>
-    </item>
-    
-    <item>
-      <title><![CDATA[[번역] Ruby 2.2.0 Time#parse TZ관련 회귀]]></title>
-      <guid isPermaLink="false">https://dayone.me/1cWNz80</guid>
-      <link>https://dayone.me/1cWNz80</link>
-      <pubDate>Fri, 09 Jan 2015 00:00:00 GMT</pubDate>
     </item>
     
   </channel>
