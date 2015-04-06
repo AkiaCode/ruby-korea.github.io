@@ -4,7 +4,17 @@
   <description></description>
   <link href="https://ruby-korea.github.io" />
   <link href="https://ruby-korea.github.io/feed.xml" rel="self" />
-  <updated>Fri, 03 Apr 2015 10:22:02 +0900</updated>
+  <updated>Mon, 06 Apr 2015 22:10:12 +0900</updated>
+  
+  <entry>
+    <title>[번역] 서버 300대 규모의 레일즈 앱 개발하기(번역 및 요약)</title>
+    <link href="http://test-driven.me/archives/217" />
+    <id>http://test-driven.me/archives/217</id>
+    <author>
+      <name>keepmoving</name>
+    </author>
+    <updated>Sat, 04 Apr 2015 00:00:00 +0900</updated>
+  </entry>
   
   <entry>
     <title>[번역] 레일즈를 계속 버전업하려면 필요한 것</title>
@@ -90,16 +100,6 @@
     <title>[번역] 센디 메츠가 해주는 간단하지만 강력한 3가지 조언</title>
     <link href="https://dayone.me/1dalzfv" />
     <id>https://dayone.me/1dalzfv</id>
-    <author>
-      <name>marocchino</name>
-    </author>
-    <updated>Sat, 10 Jan 2015 00:00:00 +0900</updated>
-  </entry>
-  
-  <entry>
-    <title>[번역] ActiveRecord 4.2의 형변환</title>
-    <link href="https://dayone.me/1d9az2u" />
-    <id>https://dayone.me/1d9az2u</id>
     <author>
       <name>marocchino</name>
     </author>
