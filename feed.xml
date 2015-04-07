@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>루비 프로그래밍 언어 한글 문서</title>
+  <title>루비 프로그래밍 언어 한국어 문서</title>
   <description></description>
   <link href="https://ruby-korea.github.io" />
   <link href="https://ruby-korea.github.io/feed.xml" rel="self" />
-  <updated>Mon, 06 Apr 2015 22:10:12 +0900</updated>
+  <updated>Tue, 07 Apr 2015 12:47:19 +0900</updated>
   
   <entry>
     <title>[번역] 서버 300대 규모의 레일즈 앱 개발하기(번역 및 요약)</title>
