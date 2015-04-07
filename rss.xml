@@ -3,9 +3,16 @@
   <channel>
     <title><![CDATA[루비 프로그래밍 언어 한국어 문서]]></title>
     <link>https://ruby-korea.github.io</link>
-    <lastBuildDate>Tue, 07 Apr 2015 12:47:19 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2015 14:49:00 +0900</lastBuildDate>
     <language>ko</language>
     <description><![CDATA[]]></description>
+    
+    <item>
+      <title><![CDATA[루비 스타일(1) – C로부터의 탈출]]></title>
+      <guid isPermaLink="false">https://thinkinginruby.wordpress.com/2015/04/07/exodus-from-c/</guid>
+      <link>https://thinkinginruby.wordpress.com/2015/04/07/exodus-from-c/</link>
+      <pubDate>Sat, 04 Apr 2015 00:00:00 GMT</pubDate>
+    </item>
     
     <item>
       <title><![CDATA[[번역] 서버 300대 규모의 레일즈 앱 개발하기(번역 및 요약)]]></title>
@@ -68,13 +75,6 @@
       <guid isPermaLink="false">http://seapy.com/2087</guid>
       <link>http://seapy.com/2087</link>
       <pubDate>Mon, 12 Jan 2015 00:00:00 GMT</pubDate>
-    </item>
-    
-    <item>
-      <title><![CDATA[[번역] 센디 메츠가 해주는 간단하지만 강력한 3가지 조언]]></title>
-      <guid isPermaLink="false">https://dayone.me/1dalzfv</guid>
-      <link>https://dayone.me/1dalzfv</link>
-      <pubDate>Sat, 10 Jan 2015 00:00:00 GMT</pubDate>
     </item>
     
   </channel>
