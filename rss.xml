@@ -3,9 +3,30 @@
   <channel>
     <title><![CDATA[루비 프로그래밍 언어 한국어 문서]]></title>
     <link>https://ruby-korea.github.io</link>
-    <lastBuildDate>Tue, 07 Apr 2015 14:49:00 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2015 18:02:13 +0900</lastBuildDate>
     <language>ko</language>
     <description><![CDATA[]]></description>
+    
+    <item>
+      <title><![CDATA[주피터(Jupyter) - IRuby Notebook 보충]]></title>
+      <guid isPermaLink="false">http://blog.nacyot.com/articles/2015-04-15-rorlab-jupyter-iruby-notebook/</guid>
+      <link>http://blog.nacyot.com/articles/2015-04-15-rorlab-jupyter-iruby-notebook/</link>
+      <pubDate>Wed, 15 Apr 2015 00:00:00 GMT</pubDate>
+    </item>
+    
+    <item>
+      <title><![CDATA[루비 스타일(3) – 말하는 듯한 코딩]]></title>
+      <guid isPermaLink="false">http://thinkinginruby.com/2015/04/13/talking-in-code/</guid>
+      <link>http://thinkinginruby.com/2015/04/13/talking-in-code/</link>
+      <pubDate>Mon, 13 Apr 2015 00:00:00 GMT</pubDate>
+    </item>
+    
+    <item>
+      <title><![CDATA[루비 스타일(2) – 들여쓰기(indent)로부터의 탈출]]></title>
+      <guid isPermaLink="false">http://thinkinginruby.com/2015/04/08/exodus-from-indent/</guid>
+      <link>http://thinkinginruby.com/2015/04/08/exodus-from-indent/</link>
+      <pubDate>Wed, 08 Apr 2015 00:00:00 GMT</pubDate>
+    </item>
     
     <item>
       <title><![CDATA[루비 스타일(1) – C로부터의 탈출]]></title>
@@ -54,27 +75,6 @@
       <guid isPermaLink="false">https://dayone.me/1faIzEW</guid>
       <link>https://dayone.me/1faIzEW</link>
       <pubDate>Mon, 19 Jan 2015 00:00:00 GMT</pubDate>
-    </item>
-    
-    <item>
-      <title><![CDATA[[번역] 사용해봐야 할 5가지 루비 메서드]]></title>
-      <guid isPermaLink="false">https://dayone.me/1eP1zCQ</guid>
-      <link>https://dayone.me/1eP1zCQ</link>
-      <pubDate>Sat, 17 Jan 2015 00:00:00 GMT</pubDate>
-    </item>
-    
-    <item>
-      <title><![CDATA[[번역] 루비에 컨트리뷰트 했다.]]></title>
-      <guid isPermaLink="false">https://dayone.me/1dJRzSb</guid>
-      <link>https://dayone.me/1dJRzSb</link>
-      <pubDate>Mon, 12 Jan 2015 00:00:00 GMT</pubDate>
-    </item>
-    
-    <item>
-      <title><![CDATA[Slack 팀 자동 가입 페이지 Heroku에 배포]]></title>
-      <guid isPermaLink="false">http://seapy.com/2087</guid>
-      <link>http://seapy.com/2087</link>
-      <pubDate>Mon, 12 Jan 2015 00:00:00 GMT</pubDate>
     </item>
     
   </channel>

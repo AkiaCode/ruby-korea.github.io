@@ -4,7 +4,37 @@
   <description></description>
   <link href="https://ruby-korea.github.io" />
   <link href="https://ruby-korea.github.io/feed.xml" rel="self" />
-  <updated>Tue, 07 Apr 2015 14:49:00 +0900</updated>
+  <updated>Fri, 17 Apr 2015 18:02:13 +0900</updated>
+  
+  <entry>
+    <title>주피터(Jupyter) - IRuby Notebook 보충</title>
+    <link href="http://blog.nacyot.com/articles/2015-04-15-rorlab-jupyter-iruby-notebook/" />
+    <id>http://blog.nacyot.com/articles/2015-04-15-rorlab-jupyter-iruby-notebook/</id>
+    <author>
+      <name>nacyot</name>
+    </author>
+    <updated>Wed, 15 Apr 2015 00:00:00 +0900</updated>
+  </entry>
+  
+  <entry>
+    <title>루비 스타일(3) – 말하는 듯한 코딩</title>
+    <link href="http://thinkinginruby.com/2015/04/13/talking-in-code/" />
+    <id>http://thinkinginruby.com/2015/04/13/talking-in-code/</id>
+    <author>
+      <name>강사룡</name>
+    </author>
+    <updated>Mon, 13 Apr 2015 00:00:00 +0900</updated>
+  </entry>
+  
+  <entry>
+    <title>루비 스타일(2) – 들여쓰기(indent)로부터의 탈출</title>
+    <link href="http://thinkinginruby.com/2015/04/08/exodus-from-indent/" />
+    <id>http://thinkinginruby.com/2015/04/08/exodus-from-indent/</id>
+    <author>
+      <name>강사룡</name>
+    </author>
+    <updated>Wed, 08 Apr 2015 00:00:00 +0900</updated>
+  </entry>
   
   <entry>
     <title>루비 스타일(1) – C로부터의 탈출</title>
@@ -74,36 +104,6 @@
       <name>marocchino</name>
     </author>
     <updated>Mon, 19 Jan 2015 00:00:00 +0900</updated>
-  </entry>
-  
-  <entry>
-    <title>[번역] 사용해봐야 할 5가지 루비 메서드</title>
-    <link href="https://dayone.me/1eP1zCQ" />
-    <id>https://dayone.me/1eP1zCQ</id>
-    <author>
-      <name>marocchino</name>
-    </author>
-    <updated>Sat, 17 Jan 2015 00:00:00 +0900</updated>
-  </entry>
-  
-  <entry>
-    <title>[번역] 루비에 컨트리뷰트 했다.</title>
-    <link href="https://dayone.me/1dJRzSb" />
-    <id>https://dayone.me/1dJRzSb</id>
-    <author>
-      <name>marocchino</name>
-    </author>
-    <updated>Mon, 12 Jan 2015 00:00:00 +0900</updated>
-  </entry>
-  
-  <entry>
-    <title>Slack 팀 자동 가입 페이지 Heroku에 배포</title>
-    <link href="http://seapy.com/2087" />
-    <id>http://seapy.com/2087</id>
-    <author>
-      <name>seapy</name>
-    </author>
-    <updated>Mon, 12 Jan 2015 00:00:00 +0900</updated>
   </entry>
   
 </feed>
