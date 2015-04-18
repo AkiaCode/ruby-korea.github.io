@@ -4,7 +4,7 @@
   <description></description>
   <link href="https://ruby-korea.github.io" />
   <link href="https://ruby-korea.github.io/feed.xml" rel="self" />
-  <updated>Fri, 17 Apr 2015 18:02:13 +0900</updated>
+  <updated>Sun, 19 Apr 2015 00:10:31 +0900</updated>
   
   <entry>
     <title>주피터(Jupyter) - IRuby Notebook 보충</title>
@@ -57,7 +57,7 @@
   </entry>
   
   <entry>
-    <title>[번역] 레일즈를 계속 버전업하려면 필요한 것</title>
+    <title>[번역] 레일스를 계속 버전업하려면 필요한 것</title>
     <link href="https://dayone.me/1o5Pzcb" />
     <id>https://dayone.me/1o5Pzcb</id>
     <author>
@@ -87,7 +87,7 @@
   </entry>
   
   <entry>
-    <title>[번역] 루비에 블럭이 있는 이유</title>
+    <title>[번역] 루비에 블록이 있는 이유</title>
     <link href="https://dayone.me/1g50zn8" />
     <id>https://dayone.me/1g50zn8</id>
     <author>
@@ -97,7 +97,7 @@
   </entry>
   
   <entry>
-    <title>[번역] 루비 2.2에서의 슈퍼 메서드 디버그</title>
+    <title>[번역] 루비 2.2에서의 슈퍼 메소드 디버그</title>
     <link href="https://dayone.me/1faIzEW" />
     <id>https://dayone.me/1faIzEW</id>
     <author>
