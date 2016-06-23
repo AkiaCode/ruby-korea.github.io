@@ -4,7 +4,17 @@
   <description></description>
   <link href="https://ruby-korea.github.io" />
   <link href="https://ruby-korea.github.io/feed.xml" rel="self" />
-  <updated>Mon, 04 Jan 2016 21:49:19 +0900</updated>
+  <updated>Fri, 24 Jun 2016 05:58:49 +0900</updated>
+  
+  <entry>
+    <title>레일즈 5의 액션 케이블을 활용한 채팅 앱 구현</title>
+    <link href="http://blog.ask.co.de/2016/06/레일즈-5의-액션-케이블을-활용한-채팅-앱-구현/" />
+    <id>http://blog.ask.co.de/2016/06/레일즈-5의-액션-케이블을-활용한-채팅-앱-구현/</id>
+    <author>
+      <name>ASK BLOG</name>
+    </author>
+    <updated>Sat, 18 Jun 2016 00:00:00 +0900</updated>
+  </entry>
   
   <entry>
     <title>주피터(Jupyter) - IRuby Notebook 보충</title>
@@ -94,16 +104,6 @@
       <name>marocchino</name>
     </author>
     <updated>Thu, 22 Jan 2015 00:00:00 +0900</updated>
-  </entry>
-  
-  <entry>
-    <title>[번역] 루비 2.2에서의 슈퍼 메소드 디버그</title>
-    <link href="https://dayone.me/1faIzEW" />
-    <id>https://dayone.me/1faIzEW</id>
-    <author>
-      <name>marocchino</name>
-    </author>
-    <updated>Mon, 19 Jan 2015 00:00:00 +0900</updated>
   </entry>
   
 </feed>
