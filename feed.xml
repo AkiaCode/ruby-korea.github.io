@@ -4,7 +4,7 @@
   <description></description>
   <link href="https://ruby-korea.github.io" />
   <link href="https://ruby-korea.github.io/feed.xml" rel="self" />
-  <updated>Fri, 24 Jun 2016 05:58:49 +0900</updated>
+  <updated>Mon, 01 Aug 2016 18:12:18 +0900</updated>
   
   <entry>
     <title>레일즈 5의 액션 케이블을 활용한 채팅 앱 구현</title>
@@ -57,16 +57,6 @@
   </entry>
   
   <entry>
-    <title>[번역] 서버 300대 규모의 레일즈 앱 개발하기(번역 및 요약)</title>
-    <link href="http://test-driven.me/archives/217" />
-    <id>http://test-driven.me/archives/217</id>
-    <author>
-      <name>keepmoving</name>
-    </author>
-    <updated>Sat, 04 Apr 2015 00:00:00 +0900</updated>
-  </entry>
-  
-  <entry>
     <title>[번역] 레일스를 계속 버전업하려면 필요한 것</title>
     <link href="https://dayone.me/1o5Pzcb" />
     <id>https://dayone.me/1o5Pzcb</id>
@@ -104,6 +94,16 @@
       <name>marocchino</name>
     </author>
     <updated>Thu, 22 Jan 2015 00:00:00 +0900</updated>
+  </entry>
+  
+  <entry>
+    <title>[번역] 루비 2.2에서의 슈퍼 메소드 디버그</title>
+    <link href="https://dayone.me/1faIzEW" />
+    <id>https://dayone.me/1faIzEW</id>
+    <author>
+      <name>marocchino</name>
+    </author>
+    <updated>Mon, 19 Jan 2015 00:00:00 +0900</updated>
   </entry>
   
 </feed>
